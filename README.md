@@ -1,6 +1,5 @@
-- 👋 Hi, I’m magumo destin
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning Python, HTML, JavaScript & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me magumodestiny@gmail.com
-.
+Aspiring Front-End Developer | HTML, CSS, JavaScript
+
+I'm a passionate front-end development student focused on building clean, responsive, and user-friendly websites. Currently sharpening my skills in HTML, CSS, and JavaScript, with a love for turning ideas into interactive web experiences.
+-  How to reach me magumodestiny@gmail.com
+
