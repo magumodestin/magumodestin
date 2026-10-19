@@ -1,5 +1,5 @@
 Aspiring Front-End Developer | HTML, CSS, JavaScript
 
-I'm a passionate front-end development student focused on building clean, responsive, and user-friendly websites. Currently sharpening my skills in HTML, CSS, and JavaScript, with a love for turning ideas into interactive web experiences.
+Motivated IT student with a strong focus on front-end development. Experienced in building responsive, user-friendly web interfaces using HTML, CSS, and JavaScript. Currently expanding my skills with React to create dynamic, interactive web experiences. Eager to apply my technical skills and attention to detail to a junior front-end role.
 -  How to reach me magumodestiny@gmail.com or 071 884 6311
 
